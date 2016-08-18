@@ -5,3 +5,4 @@ efefe47ef
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+就是你在电脑里能看到的目录，比如我的learngit文件夹就是一个工作区：
